@@ -7,5 +7,6 @@ class PushNotificationAdapter implements Notification {
         $firebase->login();
         $firebase->pushNotification();
         $firebase->logout();
+        return true;
     }
 }
