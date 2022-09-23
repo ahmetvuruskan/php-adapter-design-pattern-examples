@@ -18,7 +18,8 @@ class Kindle implements Ebook {
 
     public function getPage()
     {
-        echo "Avelible Pages : ".$this->page ." to ".$this->totalPages.PHP_EOL;
+        echo "Avealible Pages : ".$this->page ." to ".$this->totalPages.PHP_EOL;
+        return [$this->page, $this->totalPages];
     }
 
     public function unlock()

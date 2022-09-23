@@ -7,6 +7,7 @@ Class PaperBook implements Book {
     public function getPage()
     {
        echo $this->page.PHP_EOL;
+        return $this->page;
     }
 
     public function open()
