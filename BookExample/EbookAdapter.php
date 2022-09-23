@@ -9,8 +9,7 @@ Class EbookAdapter implements Book {
     }
     public function getPage()
     {
-        $this->ebook->getPage();
-
+        return $this->ebook->getPage()[0];
     }
     public function open()
     {

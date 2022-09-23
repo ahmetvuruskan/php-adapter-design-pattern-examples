@@ -1,0 +1,1 @@
+{"version":1,"defects":{"PHPUnit\\BookExampleTest::testCanTurnPageOnBook":4,"BookExampleTest::testCanTurnPageOnBook":4,"BookExampleTest::testCanTurnPageOnKindleLikeANormalBook":3},"times":{"PHPUnit\\BookExampleTest::testCanTurnPageOnBook":0.108,"BookExampleTest::testCanTurnPageOnBook":0.111,"BookExampleTest::testCanTurnPageOnKindleLikeANormalBook":0}}

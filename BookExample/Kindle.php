@@ -6,7 +6,7 @@ class Kindle implements Ebook {
 
     public function __construct()
     {
-        echo "Starting Kindle....".PHP_EOL;
+        echo "\nStarting Kindle....".PHP_EOL;
     }
 
 
